@@ -223,24 +223,41 @@ body{
         
             
         } 
-        .camera{
+        /* .camera{
            justify-content: center;
            align-items: center;
-            background-color: #1D1D1D;;
-            border-radius: 1000px;
+         
             display: flex;
-            flex-shrink: 0;
+            flex-shrink: 0; }*/
             
 }
 
-.lens{
+/* .lens{
     display: flex;
-    background-color: #BEA69E;
-    border-radius: 1000px;
+   
     justify-content: center;
     align-items: flex-end;
+} */
+
+.photoaparat-wrapper{
+background-color: #1D1D1D;
+    border-radius: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 540px;
+    margin-left: 20px;
+    margin-bottom: 38px;
+    width:340px;
 }
 
-
+.lens-wrapper{
+    background-color: #BEA69E;
+    border-radius: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 288px;
+    margin-bottom: 38px;
+}
                 
-    }
