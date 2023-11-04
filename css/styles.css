@@ -5,7 +5,6 @@ body{
 }
 
 
-
 .sign-up-wrap {
    padding-top: 80px;
 }
@@ -191,6 +190,14 @@ body{
                     padding-right: 15px;
                 }
 
+                        .sign-up-title {
+            
+                            font-size: 48px;
+                            line-height: 1.13;
+                            letter-spacing: -0.04em;
+                            margin-bottom: 20px;
+                        }
+
     
              .sign-up-btn {
                             
@@ -256,8 +263,8 @@ background-color: #1D1D1D;
     border-radius: 1000px;
     display: flex;
     align-items: center;
-    justify-content: center;
     height: 288px;
     margin-bottom: 38px;
+    width: 190px;
 }
                 
